@@ -1,0 +1,8 @@
+c:\users\никитин\documents\visual studio 2012\Projects\sadsadas\sadsadas\bin\Debug\sadsadas.exe.config
+c:\users\никитин\documents\visual studio 2012\Projects\sadsadas\sadsadas\obj\Debug\sadsadas.csprojResolveAssemblyReference.cache
+c:\users\никитин\documents\visual studio 2012\Projects\sadsadas\sadsadas\obj\Debug\sadsadas.Properties.Resources.resources
+c:\users\никитин\documents\visual studio 2012\Projects\sadsadas\sadsadas\obj\Debug\sadsadas.csproj.GenerateResource.Cache
+c:\users\никитин\documents\visual studio 2012\Projects\sadsadas\sadsadas\bin\Debug\sadsadas.exe
+c:\users\никитин\documents\visual studio 2012\Projects\sadsadas\sadsadas\bin\Debug\sadsadas.pdb
+c:\users\никитин\documents\visual studio 2012\Projects\sadsadas\sadsadas\obj\Debug\sadsadas.exe
+c:\users\никитин\documents\visual studio 2012\Projects\sadsadas\sadsadas\obj\Debug\sadsadas.pdb
